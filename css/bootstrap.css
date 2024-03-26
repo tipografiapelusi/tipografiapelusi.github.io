@@ -240,7 +240,7 @@ th {
     page-break-after: avoid;
   }
   select {
-    background: #fff !important;
+    background: #1a1a1a !important;
   }
   .navbar {
     display: none;
@@ -257,11 +257,11 @@ th {
   }
   .table td,
   .table th {
-    background-color: #fff !important;
+    background-color: #1a1a1a !important;
   }
   .table-bordered th,
   .table-bordered td {
-    border: 1px solid #ddd !important;
+    border: 1px solid #1a1a1a !important;
   }
 }
 @font-face {
